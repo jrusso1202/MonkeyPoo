@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/.android/build-cache/ed56a54a1572eef06b5a63b12b6db71d0094880b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33a7e4b6028120157fa32f0f85c3cfab47540097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_69b4c9a67645e2daf21aeec7140768433074c695/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/.android/build-cache/5208ffb382d2128d5503b5093c5727853bd7a54a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77b8d5fb528c4b368ada9227a06af6dac23b13a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/.android/build-cache/27c3ffc6446b61b7dea9ddd1a909567eb9be335a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f10bb10ee0ef2f280bc3be78b27a1fd3b53b013c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4f962bc66c0b03f7824a1730a333a8e613abac90">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_548c7d5720a8202d5e8c35755cc53a21430c2688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/.android/build-cache/9a23de09b3d17f113721438e2263b49b5c9d672a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_190aa0097b4b1d13c08cc6b5ce70bde41b6ab737/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/.android/build-cache/baa0fb3ea8e8fda51d77d1545ca15ec6587aafa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fae12f694a2d5f5e51a7751765532ca9de8ddfc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_56ad959ee97b1715ba39870ad085f7345b31ec7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/.android/build-cache/cc47395317422b6a53aea5215065df493905bba7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30f1d05cb57749792fa3c781ecb2a0eec64e2acc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/.android/build-cache/529419184c89be480e034fa3889daac87a69e449/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64c793fb944c3ecd0c3bc0b41f9185910acd8bd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/.android/build-cache/643ce5feda48f25e9f89d5139f179080613cb58c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b829d6e4347a2ffdbb6fb3c5b1958b90d9ee4ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_12452ac3bf030edd47fee391846bee9e3dfb9f35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/.android/build-cache/88f56ffd188e234d0b3d73b9539679ed9cf2d946/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04a933c5f276a0952d13a5b60d52dd3a7155ce05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/.android/build-cache/425a16f0f2578c70e27dbc0ea16fa8f9257a8a19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20c03a5428a850c973bef84213ee57a4eb77c514/classes.dex" />
+    </item>
+
+</items>
