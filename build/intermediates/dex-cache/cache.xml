@@ -12,12 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/justin.russo/Documents/projects/AndroidStudioProjects/MonkeyPoo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_69b4c9a67645e2daf21aeec7140768433074c695/classes.dex" />
+        sha1="11d15623cf255b8ca0845cdd207a4db1f644e680">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/MonkeyPoo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2a42cb85b744df78be4192d7f66e1aec6e19ed0e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -36,15 +36,6 @@
         revision="25.0.3"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
         <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f10bb10ee0ef2f280bc3be78b27a1fd3b53b013c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4f962bc66c0b03f7824a1730a333a8e613abac90">
-        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_548c7d5720a8202d5e8c35755cc53a21430c2688/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -99,6 +90,15 @@
         revision="25.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/Monkeypoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b829d6e4347a2ffdbb6fb3c5b1958b90d9ee4ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/justin.russo/Documents/projects/AndroidStudioProjects/MonkeyPoo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/justin.russo/Documents/projects/AndroidStudioProjects/MonkeyPoo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa0bea981dacbb3fd1abf0a7235f3a72640e4e47/classes.dex" />
     </item>
     <item
         is-multidex="true"
